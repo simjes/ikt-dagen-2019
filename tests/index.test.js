@@ -3,7 +3,7 @@ const people = require('../src/people.json');
 const findSumOfOddNumbers = require('../src/index').findSumOfOddNumbers;
 const reverseNumbers = require('../src/index').reverseNumbers;
 const findNumberOfFemales = require('../src/index').findNumberOfFemales;
-const doubleItems = require('../src/index').doubleItems;
+const doubleNumbersInList = require('../src/index').doubleNumbersInList;
 const findEmailsOfMalesOver30 = require('../src/index').findEmailsOfMalesOver30;
 const sumOfAllAges = require('../src/index').sumOfAllAges;
 const removeDuplicatesAndSortNumbers = require('../src/index')
@@ -28,7 +28,7 @@ test('list is reversed', () => {
 test('every number is doubled', () => {
   const numbers = [22, 2, 5, 67, 1];
 
-  expect(doubleItems(numbers)).toStrictEqual([44, 4, 10, 134, 2]);
+  expect(doubleNumbersInList(numbers)).toStrictEqual([44, 4, 10, 134, 2]);
 });
 
 test('five people are female', () => {

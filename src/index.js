@@ -1,11 +1,11 @@
 // a and b are numbers
-// ex. 5 + 5 = 10
+// e.g. 5 + 5 = 10
 function sum(a, b) {
   return a + a + b;
 }
 
 // find the sum of every odd number from 0 up to and including `number`
-// ex. number = 5, then the answer is 9
+// e.g. number = 5, then the answer is 1+3+5=9
 function findSumOfOddNumbers(number) {
   let sum = 0;
 
@@ -17,14 +17,14 @@ function findSumOfOddNumbers(number) {
 }
 
 // `numbers` is an array that only contains numbers
-// ex. [1 , 5 , 2 , 9, 32]
+// e.g. [1 , 5 , 2 , 9, 32]
 function reverseNumbers(numbers) {
   return numbers;
 }
 
 // `numbers` is an array that only contains numbers
-// ex. [1 , 5 , 2 , 9, 32]
-function doubleItems(numbers) {
+// e.g. [1 , 5 , 2 , 9, 32]
+function doubleNumbersInList(numbers) {
   return numbers.map();
 }
 
@@ -49,20 +49,20 @@ function findEmailsOfMalesOver30(people) {
 
 // `people` is a list of people.
 function sumOfAllAges(people) {
-  return 30;
+  throw new Error('not implemented');
 }
 
 // `numbers` is an array that only contains numbers
-// ex. [1 , 5 , 5, 2 , 9, 5, 32]
+// e.g. [1 , 5 , 5, 2 , 9, 5, 32]
 // [...new Set(numbers)] is a copy of `numbers`, and without duplicates
 function removeDuplicatesAndSortNumbers(numbers) {
   return [...new Set(numbers)].sort((a, b) => '...');
 }
 
 // find the product of all positive numbers less than and equal to `number`
-// ex: if number = 3, then the answer is the sum of 1*2*3
+// e.g. if number = 3, then the answer is the sum of 1*2*3
 function firstFactorial(number) {
-  return number;
+  throw new Error('not implemented');
 }
 
 // startDate and endDate are date objects
@@ -75,7 +75,7 @@ module.exports = {
   findSumOfOddNumbers,
   reverseNumbers,
   findNumberOfFemales,
-  doubleItems,
+  doubleNumbersInList,
   findEmailsOfMalesOver30,
   sumOfAllAges,
   removeDuplicatesAndSortNumbers,
