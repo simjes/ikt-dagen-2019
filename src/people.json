@@ -1,0 +1,110 @@
+[
+  {
+    "age": 33,
+    "name": "Barker Petty",
+    "gender": "male",
+    "company": "PHOTOBIN",
+    "email": "barkerpetty@photobin.com",
+    "phone": "+1 (987) 437-2935",
+    "address": "745 Forest Place, Frank, Oregon, 3078"
+  },
+  {
+    "age": 28,
+    "name": "Jennifer Bryan",
+    "gender": "female",
+    "company": "ACRODANCE",
+    "email": "jenniferbryan@acrodance.com",
+    "phone": "+1 (899) 449-3997",
+    "address": "292 Argyle Road, Farmers, Idaho, 4492"
+  },
+  {
+    "age": 21,
+    "name": "Bailey Mcgee",
+    "gender": "male",
+    "company": "FUTURIS",
+    "email": "baileymcgee@futuris.com",
+    "phone": "+1 (919) 498-2837",
+    "address": "879 Fairview Place, Kylertown, Texas, 8389"
+  },
+  {
+    "age": 23,
+    "name": "Nelson Meyer",
+    "gender": "male",
+    "company": "FURNAFIX",
+    "email": "nelsonmeyer@furnafix.com",
+    "phone": "+1 (914) 424-2237",
+    "address": "242 Woodrow Court, Hinsdale, Northern Mariana Islands, 6948"
+  },
+  {
+    "age": 35,
+    "name": "Cooley Sanford",
+    "gender": "male",
+    "company": "OPTIQUE",
+    "email": "cooleysanford@optique.com",
+    "phone": "+1 (874) 577-3336",
+    "address": "982 Dekoven Court, Caberfae, Wyoming, 5491"
+  },
+  {
+    "age": 25,
+    "name": "Robyn Rush",
+    "gender": "female",
+    "company": "UNQ",
+    "email": "robynrush@unq.com",
+    "phone": "+1 (960) 495-2770",
+    "address": "716 Tilden Avenue, Kansas, Maine, 2481"
+  },
+  {
+    "age": 40,
+    "name": "Dickson Gutierrez",
+    "gender": "male",
+    "company": "GRACKER",
+    "email": "dicksongutierrez@gracker.com",
+    "phone": "+1 (910) 453-2800",
+    "address": "535 Corbin Place, Deltaville, North Dakota, 5488"
+  },
+  {
+    "age": 36,
+    "name": "Moran Cherry",
+    "gender": "male",
+    "company": "COMTREK",
+    "email": "morancherry@comtrek.com",
+    "phone": "+1 (836) 417-2063",
+    "address": "319 Hopkins Street, Lorraine, New Hampshire, 9489"
+  },
+  {
+    "age": 33,
+    "name": "Marsh Turner",
+    "gender": "male",
+    "company": "CALCULA",
+    "email": "marshturner@calcula.com",
+    "phone": "+1 (878) 488-2090",
+    "address": "812 Driggs Avenue, Fannett, Missouri, 4698"
+  },
+  {
+    "age": 36,
+    "name": "Nanette Briggs",
+    "gender": "female",
+    "company": "HYDROCOM",
+    "email": "nanettebriggs@hydrocom.com",
+    "phone": "+1 (970) 439-2599",
+    "address": "434 Albemarle Road, Sanborn, South Carolina, 9390"
+  },
+  {
+    "age": 22,
+    "name": "Kerri Weiss",
+    "gender": "female",
+    "company": "STREZZO",
+    "email": "kerriweiss@strezzo.com",
+    "phone": "+1 (955) 447-3043",
+    "address": "458 Kane Place, Wheatfields, Alabama, 7387"
+  },
+  {
+    "age": 26,
+    "name": "Lakeisha Serrano",
+    "gender": "female",
+    "company": "SYNKGEN",
+    "email": "lakeishaserrano@synkgen.com",
+    "phone": "+1 (873) 526-3604",
+    "address": "390 Schenck Place, Brenton, Ohio, 9351"
+  }
+]
